@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bipinlongjam/netflixClone.git/static/css/main.f14330d7.css",
+    "main.js": "/bipinlongjam/netflixClone.git/static/js/main.96ea9ea6.js",
+    "static/js/787.0904c1f0.chunk.js": "/bipinlongjam/netflixClone.git/static/js/787.0904c1f0.chunk.js",
+    "index.html": "/bipinlongjam/netflixClone.git/index.html",
+    "main.f14330d7.css.map": "/bipinlongjam/netflixClone.git/static/css/main.f14330d7.css.map",
+    "main.96ea9ea6.js.map": "/bipinlongjam/netflixClone.git/static/js/main.96ea9ea6.js.map",
+    "787.0904c1f0.chunk.js.map": "/bipinlongjam/netflixClone.git/static/js/787.0904c1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f14330d7.css",
+    "static/js/main.96ea9ea6.js"
+  ]
+}
